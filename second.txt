@@ -5,3 +5,5 @@ This is a test for you full!
 =======
 my second commit, this is a change by johan
 >>>>>>> 1ba955dec3b644c2f93c05fe278fa46bb99c443e
+
+Bla Bla Bla Bla
